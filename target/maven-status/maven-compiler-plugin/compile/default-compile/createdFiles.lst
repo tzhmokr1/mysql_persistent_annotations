@@ -1,0 +1,9 @@
+com\example\accessingdatamysql\Author.class
+com\example\accessingdatamysql\AccessingDataMysqlApplication.class
+com\example\accessingdatamysql\Bestellung.class
+com\example\accessingdatamysql\Library.class
+com\example\accessingdatamysql\Bestellung$BestellungBuilder.class
+com\example\accessingdatamysql\Book.class
+com\example\accessingdatamysql\OrderItem$OrderItemBuilder.class
+com\example\accessingdatamysql\OrderItem.class
+com\example\accessingdatamysql\Address.class
